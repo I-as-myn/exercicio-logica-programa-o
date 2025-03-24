@@ -1,0 +1,3 @@
+A programação procedural funciona como uma confeitaria onde todas as receitas seguem uma sequência fixa. Sempre que você for fazer um bolo de chocolate, precisa também fazer o bolo de baunilha e o bolo de morango, pois as etapas estão todas ligadas. Se quiser mudar um detalhe em uma das receitas, precisa ajustar todo o processo.
+
+Já a programação orientada a objetos funciona como uma confeitaria mais organizada, onde cada tipo de bolo tem sua própria receita separada. Se quiser fazer apenas um bolo de chocolate, você pode seguir apenas essa receita, sem precisar se preocupar com as outras. Cada bolo (objeto) tem suas próprias características, como sabor, tamanho e cobertura, e métodos próprios para serem preparados.
